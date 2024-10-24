@@ -1,0 +1,7 @@
+# Ignore artifacts:
+build
+coverage
+.env
+.gitignore
+.prettierrc
+/src/services/Email/emailTemplates
